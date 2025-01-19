@@ -1,7 +1,8 @@
-# ArdhiChain: Decentralized Land Ownership Management on Ethereum    
+# ArdhiChain
+# Decentralized Land Ownership Management on Ethereum    
 
 ## Overview  
-ArdhiCain is a decentralized application (dApp) that uses the Ethereum blockchain to provide secure, transparent, and tamper-proof land ownership management. Designed to address land ownership challenges in rural communities, it ensures equitable, verifiable, and accessible records for property transactions.  
+ArdhiChain is a decentralized application (dApp) that uses the Ethereum blockchain to provide secure, transparent, and tamper-proof land ownership management. Designed to address land ownership challenges in rural communities, it ensures equitable, verifiable, and accessible records for property transactions.  
 
 ## Key Features
 
